@@ -7,25 +7,25 @@
  "manifests": [
          
                 { 
-                    "@id": "http://access.bl.uk/item/viewer/ark:/81055/vdc_100098895640.0x000001",
+                    "@id": "https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100098895640.0x000001/manifest.json",
                     "@type": "sc:Manifest",
                       "label": "Volume 1" 
                 }, 
                
      { 
-                    "@id":"http://access.bl.uk/item/viewer/ark:/81055/vdc_100099234730.0x000001",
+                    "@id":"https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100099234730.0x000001/manifest.json",
                     "@type": "sc:Manifest",    
                     "label": "Volume 2"
     },
 
     { 
-                    "@id": "http://access.bl.uk/item/viewer/ark:/81055/vdc_100100875680.0x000001",
+                    "@id": "https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100100875680.0x000001/manifest.json",
                     "@type": "sc:Manifest",
                     "label": "Volume 3"
     },
 
     { 
-                    "@id": "http://access.bl.uk/item/viewer/ark:/81055/vdc_100101008565.0x000001",
+                    "@id": "https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100101008565.0x000001/manifest.json",
                     "@type": "sc:Manifest",
                     "label": "Volume 4"
     }
