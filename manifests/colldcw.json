@@ -1,0 +1,33 @@
+{
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+
+            "@id": "https://glenrobson.github.io/BL-Nov-2021/manifests/colldcw.json", 
+            "@type": "sc:Collection",
+            "label": " Senshoku zuan / Tsuda Seifū." ,
+ "manifests": [
+         
+                { 
+                    "@id": "http://access.bl.uk/item/viewer/ark:/81055/vdc_100098895640.0x000001",
+                    "@type": "sc:Manifest",
+                      "label": "Volume 1" 
+                }, 
+               
+     { 
+                    "@id":"http://access.bl.uk/item/viewer/ark:/81055/vdc_100099234730.0x000001",
+                    "@type": "sc:Manifest",    
+                    "label": "Volume 2"
+    },
+
+    { 
+                    "@id": "http://access.bl.uk/item/viewer/ark:/81055/vdc_100100875680.0x000001",
+                    "@type": "sc:Manifest",
+                    "label": "Volume 3"
+    },
+
+    { 
+                    "@id": "http://access.bl.uk/item/viewer/ark:/81055/vdc_100101008565.0x000001",
+                    "@type": "sc:Manifest",
+                    "label": "Volume 4"
+    }
+]
+}
