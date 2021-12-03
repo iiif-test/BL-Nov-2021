@@ -9,5 +9,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://iiif-test.github.io/BL-Nov-2021/manifests/manifest2.json",
     "label" : "BL Newspapers"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://iiif-test.github.io/BL-Nov-2021/manifests/training-toc.json",
+    "label" : "BL Newspapers"
   } ]
 }
